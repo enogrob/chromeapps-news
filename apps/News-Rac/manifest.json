@@ -1,0 +1,16 @@
+{
+  "name": "RAC",
+  "description": "Access RAC",
+  "version": "1",
+  "app": {
+    "urls": [
+      "http://www.rac.com.br/times/canal-do-comercial/"
+    ],
+    "launch": {
+      "web_url": "http://www.rac.com.br/times/canal-do-comercial/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

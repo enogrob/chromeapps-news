@@ -1,0 +1,17 @@
+{
+  "name": "O VALE",
+  "description": "Access O VALE",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.ovale.com.br/"
+    ],
+    "launch": {
+      "web_url": "http://www.ovale.com.br/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

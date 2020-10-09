@@ -1,0 +1,17 @@
+{
+  "name": "Globo Esporte",
+  "description": "Access Globo Esporte",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://globoesporte.globo.com/futebol/times/comercial-sp/"
+    ],
+    "launch": {
+      "web_url": "http://globoesporte.globo.com/futebol/times/comercial-sp/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

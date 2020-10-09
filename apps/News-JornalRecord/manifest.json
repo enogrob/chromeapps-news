@@ -1,0 +1,17 @@
+{
+  "name": "Jornal da Record",
+  "description": "Access Jornal da Record",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://noticias.r7.com"
+    ],
+    "launch": {
+      "web_url": "https://noticias.r7.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "A CIDADE",
+  "description": "Access Jornal A Cidade",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.acidadeon.com/ribeiraopreto/"
+    ],
+    "launch": {
+      "web_url": "https://www.acidadeon.com/ribeiraopreto/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

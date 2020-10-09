@@ -1,0 +1,17 @@
+{
+  "name": "Flipboard",
+  "description": "Access Flipboard",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://flipboard.com"
+    ],
+    "launch": {
+      "web_url": "https://flipboard.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

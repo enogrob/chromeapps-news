@@ -1,0 +1,17 @@
+{
+  "name": "Folha Politica",
+  "description": "Folha Politica",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.folhapolitica.org"
+    ],
+    "launch": {
+      "web_url": "http://www.folhapolitica.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

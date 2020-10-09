@@ -1,0 +1,17 @@
+{
+  "name": "Estadão",
+  "description": "Access Estadão",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.estadao.com.br"
+    ],
+    "launch": {
+      "web_url": "https://www.estadao.com.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

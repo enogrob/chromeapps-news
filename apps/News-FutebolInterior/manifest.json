@@ -1,0 +1,17 @@
+{
+  "name": "Futebol Interior",
+  "description": "Access Futebol Interior",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.futebolinterior.com.br/"
+    ],
+    "launch": {
+      "web_url": "http://www.futebolinterior.com.br/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

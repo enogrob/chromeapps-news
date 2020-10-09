@@ -1,0 +1,17 @@
+{
+  "name": "A Folha de São Paulo",
+  "description": "Access Folha de São Paulo",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.folha.uol.com.br"
+    ],
+    "launch": {
+      "web_url": "https://www.folha.uol.com.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
