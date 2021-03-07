@@ -1,0 +1,17 @@
+{
+  "name": "Panflix",
+  "description": "Access Panflix",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.panflix.com.br/"
+    ],
+    "launch": {
+      "web_url": "https://www.panflix.com.br/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
